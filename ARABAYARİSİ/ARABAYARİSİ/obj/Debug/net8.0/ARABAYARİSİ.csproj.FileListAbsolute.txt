@@ -1,0 +1,14 @@
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ARABAYARİSİ\ARABAYARİSİ\bin\Debug\net8.0\ARABAYARİSİ.exe
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ARABAYARİSİ\ARABAYARİSİ\bin\Debug\net8.0\ARABAYARİSİ.deps.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ARABAYARİSİ\ARABAYARİSİ\bin\Debug\net8.0\ARABAYARİSİ.runtimeconfig.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ARABAYARİSİ\ARABAYARİSİ\bin\Debug\net8.0\ARABAYARİSİ.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ARABAYARİSİ\ARABAYARİSİ\bin\Debug\net8.0\ARABAYARİSİ.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ARABAYARİSİ\ARABAYARİSİ\obj\Debug\net8.0\ARABAYARİSİ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ARABAYARİSİ\ARABAYARİSİ\obj\Debug\net8.0\ARABAYARİSİ.AssemblyInfoInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ARABAYARİSİ\ARABAYARİSİ\obj\Debug\net8.0\ARABAYARİSİ.AssemblyInfo.cs
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ARABAYARİSİ\ARABAYARİSİ\obj\Debug\net8.0\ARABAYARİSİ.csproj.CoreCompileInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ARABAYARİSİ\ARABAYARİSİ\obj\Debug\net8.0\ARABAYARİSİ.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ARABAYARİSİ\ARABAYARİSİ\obj\Debug\net8.0\refint\ARABAYARİSİ.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ARABAYARİSİ\ARABAYARİSİ\obj\Debug\net8.0\ARABAYARİSİ.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ARABAYARİSİ\ARABAYARİSİ\obj\Debug\net8.0\ARABAYARİSİ.genruntimeconfig.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\ARABAYARİSİ\ARABAYARİSİ\obj\Debug\net8.0\ref\ARABAYARİSİ.dll
